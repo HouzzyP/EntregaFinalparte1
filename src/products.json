@@ -1,0 +1,41 @@
+[
+	{
+		"title": "producto prueba 4",
+		"description": "Este es un producto prueba 4",
+		"price": 200,
+		"code": "1234",
+		"stock": 25,
+		"category": "nueva",
+		"status": true,
+		"thumbnail": [
+			"./public/product1.png"
+		],
+		"id": 2
+	},
+	{
+		"title": "producto prueba 1",
+		"description": "Este es un producto prueba 1",
+		"price": 200,
+		"code": "1",
+		"stock": 35,
+		"category": "nueva",
+		"status": true,
+		"thumbnail": [
+			"./public/product1.png"
+		],
+		"id": 3
+	},
+	{
+		"title": "producto prueba 3",
+		"description": "Este es un producto prueba 3",
+		"price": 200,
+		"code": "3",
+		"stock": 45,
+		"category": "nueva",
+		"status": true,
+		"thumbnail": [
+			"./public/product1.png"
+		],
+		"id": 4
+	}
+]
