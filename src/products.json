@@ -37,5 +37,83 @@
 			"./public/product1.png"
 		],
 		"id": 4
+	},
+	{
+		"title": "producto prueba 7",
+		"description": "Este es un producto prueba 7",
+		"price": 200,
+		"code": "123",
+		"stock": 45,
+		"category": "nueva",
+		"status": true,
+		"thumbnail": [
+			"./public/product1.png"
+		],
+		"id": 5
+	},
+	{
+		"title": "producto prueba 3",
+		"description": "Nueva Descripcion",
+		"price": 200,
+		"code": "12313",
+		"stock": 25,
+		"category": "nueva",
+		"status": true,
+		"thumbnail": [
+			"./public/product1.png"
+		],
+		"id": 6
+	},
+	{
+		"title": "producto prueba 3",
+		"description": "Nueva Descripcion",
+		"price": 200,
+		"code": "123313",
+		"stock": 25,
+		"category": "nueva",
+		"status": true,
+		"thumbnail": [
+			"./public/product1.png"
+		],
+		"id": 7
+	},
+	{
+		"title": "producto prueba 3",
+		"description": "Nueva Descripcion",
+		"price": 200,
+		"code": "1233132323",
+		"stock": 25,
+		"category": "nueva",
+		"status": true,
+		"thumbnail": [
+			"./public/product1.png"
+		],
+		"id": 8
+	},
+	{
+		"title": "Nuevo",
+		"description": "Nueva Descripcion",
+		"price": 200,
+		"code": "12331332323",
+		"stock": 25,
+		"category": "nueva",
+		"status": true,
+		"thumbnail": [
+			"./public/product1.png"
+		],
+		"id": 9
+	},
+	{
+		"title": "Nuevo 2",
+		"description": "Nueva Descripcion",
+		"price": 200,
+		"code": "1321332",
+		"stock": 25,
+		"category": "nueva",
+		"status": true,
+		"thumbnail": [
+			"./public/product1.png"
+		],
+		"id": 10
 	}
 ]

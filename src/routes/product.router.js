@@ -4,15 +4,21 @@ const manager = new ProductManager()
 
 const router = new Router()
 
+
+router.get('/realtimeproducts',(req,res) =>{
+    
+    res.render('realTimeProducts',{})
+})
+
 router.get('/',(req,res) =>{
     manager.getProducts()
     .then((data) => {
         
         if(parseInt(req.query.limit) < data.length){
             const newData = data.splice(0,req.query.limit)
-            res.send({Productos: newData})
+            res.render('home',{data: newData})
         }else{
-            res.send({Productos: data})
+            res.render('home',{data: data})
         }
     })
    
